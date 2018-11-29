@@ -1,0 +1,7 @@
+{"_id":2.0180822e+07,"name":"123","age":21.0,"gender":"女"}
+{"_id":2.0180823e+07,"name":"1234","age":80.0,"gender":"女"}
+{"_id":2.0180824e+07,"name":"234","age":20.0,"gender":"男"}
+{"_id":{"$oid":"5b7bc3870c2eb6e96b3d2f2e"},"name":"李勇","age":30.0}
+{"_id":{"$oid":"5b7bc40f0c2eb6e96b3d2f30"},"name":"ljh"}
+{"_id":{"$oid":"5b7bc40f0c2eb6e96b3d2f31"},"age":"30"}
+{"_id":{"$oid":"5b7cfe6f63f7ee273a9c9e90"},"name":"刘斌","age":38}
